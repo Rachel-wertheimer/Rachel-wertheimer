@@ -1,7 +1,6 @@
 <div align="center">
   <img src="logo.jpg" alt="Rachel Wertheimer Logo" width="180" height="180" style="border-radius: 50%;">
 </div>
-
 ---
 
 <div dir="rtl" align="center">
@@ -64,11 +63,10 @@
 ## 📄 קורות חיים
 <div align="center">
 
-[![עברית](https://img.shields.io/badge/%D7%A7%D7%95%D7%A8%D7%95%D7%AA_%D7%97%D7%99%D7%99-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA-blue?style=for-the-badge)](./‏‏‏‏רחל%20וורטהיימר.pdf)
+[![עברית](https://img.shields.io/badge/%D7%A7%D7%95%D7%A8%D7%95%D7%AA_%D7%97%D7%99%D7%99-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA-blue?style=for-the-badge)](./‏‏‏‏רחל%20וורטהיימר..pdf)
 [![English](https://img.shields.io/badge/CV-English-blue?style=for-the-badge)](./‏‏Rachel%20Wertheimer.pdf)
 
-</div>
-
+</div>  
 ---
 
 ## 📊 סטטיסטיקות GitHub
