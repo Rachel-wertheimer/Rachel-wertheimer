@@ -47,11 +47,7 @@
 [![עברית](https://img.shields.io/badge/%D7%A7%D7%95%D7%A8%D7%95%D7%AA_%D7%97%D7%99%D7%99-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA-blue?style=for-the-badge)](./‏‏‏‏רחל%20וורטהיימר..pdf)
 [![English](https://img.shields.io/badge/CV-English-blue?style=for-the-badge)](./‏‏Rachel%20Wertheimer.pdf)
 
-</div>
-
-> 💡 פשוט גררי את קבצי ה־PDF של קורות החיים שלך לתוך הרפוזיטורי, וודאי שהשמות הם:
-> - `CV-Hebrew.pdf`  
-> - `CV-English.pdf`  
+</div>  
 
 ---
 
