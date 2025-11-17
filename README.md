@@ -63,8 +63,8 @@
 ## 📄 קורות חיים
 <div align="center">
 
-[![עברית](https://img.shields.io/badge/%D7%A7%D7%95%D7%A8%D7%95%D7%AA_%D7%97%D7%99%D7%99-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA-blue?style=for-the-badge)](./‏‏‏‏רחל%20וורטהיימר..pdf)
-[![English](https://img.shields.io/badge/CV-English-blue?style=for-the-badge)](./‏‏Rachel%20Wertheimer.pdf)
+[![עברית](https://img.shields.io/badge/%D7%A7%D7%95%D7%A8%D7%95%D7%AA_%D7%97%D7%99%D7%99-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA-blue?style=for-the-badge)](./רחל%20ורטהימר%20-%20מפתחת%20תוכנה.pdf)
+[![English](https://img.shields.io/badge/CV-English-blue?style=for-the-badge)](./‏‏Rachel%20Wertheimer%20-Full%20stack%20Developer.pdf)
 
 </div>  
 ---
@@ -83,7 +83,7 @@
 <div align="center">
 
 ### 📫 צרי קשר
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Rachel.FSD108@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachel.fsd108@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rachel-wertheimer)
 
